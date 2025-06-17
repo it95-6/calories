@@ -1,6 +1,6 @@
 # Calories Analysis
 
-This repository contains exploratory and predictive analysis notebooks for calorie estimation based on physiological metrics.
+This repository contains exploratory and predictive analysis notebooks for calorie estimation based on data from a Kaggle competition.
 
 ## Contents
 - "eda.ipynb": Exploratory data analysis (EDA)
